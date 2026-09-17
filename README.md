@@ -43,6 +43,7 @@ The goal is simple:
 ├── about.html       # About THE FRONTIER
 ├── explore.html     # Explore content
 └── contact.html     # Contact page
+```
 
 ## Tech Stack
 
